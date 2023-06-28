@@ -4,6 +4,7 @@
     --botao-azul: #167BF7;
     --cor-de-fundo: #00030C;
     --fonte-principal:'inter';
+    --vermelho: #e20f0f;
   }
   
   body {
@@ -140,6 +141,7 @@
   
   .lista__link {
     font-size: 15px;
-    color: var(--branco-principal)
+    color: var(--vermelho);
+    padding: 5px;
   }
   
